@@ -1,0 +1,20 @@
+body{
+    color: rgb(0, 21, 51);
+}
+
+#finalTicketPrice{
+    color: rgb(12, 217, 119);
+    font-weight: bold;
+}
+
+#ticket-purchase-btn{
+    background-color: rgb(0, 108, 250);
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.btn{
+    margin-top: 30px;
+}
